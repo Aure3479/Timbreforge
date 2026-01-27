@@ -55,10 +55,23 @@ python software/current/voice_haptics_gui_patched_phase1_debugtab_v4.py
 - assets/ — poster + photos + screenshots
 
 
-## Media
-- Poster (A2): assets/poster_A2.png
-- GUI screenshot: assets/Gui.png
-- Wearable photo: assets/arm.jpeg
+
+<h2>Media</h2>
+
+<h3>Poster (A2)</h3>
+<a href="assets/poster_A2.png">
+  <img src="assets/poster_A2.png" width="650" />
+</a>
+
+<h3>GUI</h3>
+<a href="assets/gui.png">
+  <img src="assets/gui.png" width="650" />
+</a>
+
+<h3>Wearable</h3>
+<a href="assets/wearable.jpg">
+  <img src="assets/wearable.jpg" width="650" />
+</a>
 
 ## Credits
 
