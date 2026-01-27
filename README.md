@@ -69,8 +69,8 @@ python software/current/voice_haptics_gui_patched_phase1_debugtab_v4.py
 </a>
 
 <h3>Wearable</h3>
-<a href="assets/arm.jpg">
-  <img src="assets/arm.jpg" width="650" />
+<a href="assets/arm.jpeg">
+  <img src="assets/arm.jpeg" width="650" />
 </a>
 
 ## Credits
