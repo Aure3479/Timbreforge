@@ -1,0 +1,5 @@
+```txt
+numpy>=1.23
+PyQt5>=5.15
+bleak>=0.21
+soundfile>=0.12.1

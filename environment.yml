@@ -1,0 +1,12 @@
+name: timbreforge
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pyaudio
+  - pip
+  - pip:
+      - PyQt5>=5.15
+      - bleak>=0.21
+      - soundfile>=0.12.1

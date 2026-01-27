@@ -1,0 +1,21 @@
+site_name: TimbreForge (Built on Vibraforge)
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Setup (Windows): setup_windows.md
+  - Vibraforge baseline: vibraforge_baseline.md
+  - Firmware (PlatformIO): firmware_platformio.md
+  - Software architecture: software_architecture.md
+  - Calibration & noise: calibration_noise.md
+  - Live / Record / Replay: live_record_replay.md
+  - Iterations & archives: iterations.md
+  - Troubleshooting: troubleshooting.md
