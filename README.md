@@ -64,8 +64,8 @@ python software/current/voice_haptics_gui_patched_phase1_debugtab_v12_noble_repl
 </a>
 
 <h3>GUI</h3>
-<a href="assets/Gui.png">
-  <img src="assets/Gui.png" width="650" />
+<a href="assets/gui.png">
+  <img src="assets/gui.png" width="650" />
 </a>
 
 <h3>Wearable</h3>
