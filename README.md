@@ -37,7 +37,7 @@ conda create -n timbreforge python=3.10 -y
 conda activate timbreforge
 conda install -c conda-forge numpy pyaudio -y
 pip install -r requirements.txt
-python software/current/voice_haptics_gui_patched_phase1_debugtab_v4.py
+python software/current/voice_haptics_gui_patched_phase1_debugtab_v12_noble_replayfix.py
 ```
 
 1. Power the Vibraforge wearable (BLE) and keep it close (≤ 1–2m).
